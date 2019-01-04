@@ -12,7 +12,7 @@
 
 
 ***
-<br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 ## Steps
 
@@ -32,7 +32,7 @@
 3. Rinse the empty cuvette and measuring tube twice with the sample to remove any traces of previous solutions.<br>
 
 <img src="images/3-rinse.jpg" width="240">
-<br><br>
+<br><br><br><br>
 
 4. Using the syringe, draw out a little over 10 ml of the sample. Then, attach the syringe filter to the tip of the syringe and Filter 10ml of the sample into the measuring tube.<br><br>
 
@@ -92,7 +92,7 @@
 12. Complete the rest of the survey, and submit it once you have filled in all the forms.<br>
 
 <img src="images/Collect%20submit%20form.jpg" width="240">
-<br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 ## Reagent preparation
@@ -115,7 +115,7 @@
 <img src="images/Add%20reagent%20A.jpg" width="240">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="images/Add%20reagent%20B.jpg" width="240"><br>
-
+<br><br>
 2. Leave the solution to react. In about 10  minutes, the the colour should change from Dark red to yellow<br>
 
 <img src="images/color%20change.jpg" width="240"><br>
