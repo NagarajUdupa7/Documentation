@@ -1,4 +1,37 @@
-﻿## **Things You Will Need**
+﻿
+
+# Reagent preparation
+
+### **Things You will Need**
+
+|  |
+| ---|:----------------| :-----:|
+|1|1 Bottle of Reagent A | <img src="images/Reagent%20A.jpg" width="80">|
+|2|1 Bottle of Reagent B|<img src="images/Reagent%20B.jpg" width="80"><br>|
+|3|A 15 ml measuring tube|<img src="images/components%20-%20mixing%20tube.jpg" width="40"><br>|
+|4|Empty Vials|<img src="images/components%20-%20reagent%20vial.jpg" width="60"><br>|
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+### Preparation
+
+1. Take 10 ml of Reagent A in the measuring tube. add 2.5 ml of Reagent B, so that the total volume of the solution is 12.5ml.<br>
+
+<img src="images/Add%20reagent%20A.jpg" width="240">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/Add%20reagent%20B.jpg" width="240"><br>
+<br><br><br>
+2. Leave the solution to react. In about 10  minutes, the the colour should change from Dark red to yellow<br>
+
+<img src="images/color%20change.jpg" width="240"><br><br><br>
+
+3. Fill the empty vials with the mixed reagent up to the (0.5ml) line for easy testing on the field.<br>
+
+<img src="images/pour%20mixed%20reagent.jpg" width="240"><br><br><br>
+
+
+<br><br><br><br><br><br><br><br><br><br><br>
+## **Things You Will Need**
 
 |  |
 | ---|:----------------| :-----:|
@@ -12,7 +45,7 @@
 
 
 ***
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br>
 
 ## Steps
 
@@ -51,14 +84,14 @@
 <br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br>
 
-7. Launch the test on the app selecting "No Dilution" on the next screen. <br>
+7. Launch the test on the app. <br>
 
 <img src="images/survey%20screen3.jpg" width="240">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="images/test%20screen%202.jpg" width="240">
 <br><br> <br>
 
-8. Place the phone face down, and use the sticker to help center the cuvette over the camera. Wait for 6 minutes for the test to complete - you will hear 6 beeps and a "Test Completion" sound.<br>
+8. Place the phone face down, and use the sticker to help center the cuvette over the camera. Wait for about 30 seconds for the test to complete - you will hear 6 beeps and a "Test Completion" sound.<br>
 
 <img src="images/8-align2.jpg" width="240">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -80,35 +113,4 @@
 11. Complete the rest of the survey, and submit it once you have filled in all the forms.<br>
 
 <img src="images/Collect%20submit%20form.jpg" width="240">
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-
-## Reagent preparation
-
-### **Things You will Need**
-
-|  |
-| ---|:----------------| :-----:|
-|1|1 Bottle of Reagent A | <img src="images/Reagent%20A.jpg" width="80">|
-|2|1 Bottle of Reagent B|<img src="images/Reagent%20B.jpg" width="80"><br>|
-|3|A 15 ml measuring tube|<img src="images/components%20-%20mixing%20tube.jpg" width="40"><br>|
-|4|Empty Vials|<img src="images/components%20-%20reagent%20vial.jpg" width="60"><br>|
-
-
-
-### Preparation
-
-1. Take 10 ml of Reagent A in the measuring tube. add 2.5 ml of Reagent B, so that the total volume of the solution is 12.5ml.<br>
-
-<img src="images/Add%20reagent%20A.jpg" width="240">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="images/Add%20reagent%20B.jpg" width="240"><br>
-<br><br>
-2. Leave the solution to react. In about 10  minutes, the the colour should change from Dark red to yellow<br>
-
-<img src="images/color%20change.jpg" width="240"><br>
-
-3. Fill the empty vials with the mixed reagent up to the (0.5ml) line for easy testing on the field.<br>
-
-<img src="images/pour%20mixed%20reagent.jpg" width="240"><br>
 
