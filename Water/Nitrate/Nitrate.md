@@ -9,10 +9,13 @@
 |5|A sample of water to test|<img src="images/component%20-%20sample%20container.jpg" width="70">|
 |6|15 ml Syringe<br>|<img src="images/component-syringe.jpg" width="180">|
 |7|Syringe filter<br>|<img src="images/component-syringe-filter.jpg" width="90"><br>|
+|8|Distilled Water (in case of dilution)<br>|<img src="images/component-distilledwater.jpg" width="60"><br>|
+
+
 
 
 ***
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 ## Steps
 
@@ -86,3 +89,54 @@
 
 <img src="images/Collect%20submit%20form.jpg" width="240">
 <br>
+
+
+
+***
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+## High Range testing - Dilution
+
+The default range of the phosphate test is from 0 - 100 mg/l. Occassionally you may encounter a sample with a nitrate content greater than this range, in which case the app will prompt you to conduct a dilution test.
+
+A dilution test can extend the range of the test either by 2x or 5x, depending on which option you choose. The app takes care of the multiplication with the dilution factor, and returns a final result as per the type of dilution conducted. Note: Dilution does affect the accuracy, and care must be taken when measuring out the sample and distilled water. <br>
+
+Follow all the steps as described in the test above, except for Step 4 and step 8. Replace step 4 and 8 with the appropriate step below, as per the dilution test you are conducting:
+
+### For 2X Dilution (Range 0 - 200 mg/l)
+
+4. Using the syringe, draw out a little over 5 ml of the sample. Then, attach the syringe filter to the tip of the syringe and filter 5 ml of the sample into the measuring tube. Add 5 ml of distilled water to the same measuring tube, bringing up the total volume to 10 ml. <br>
+
+<img src="images/3-draw%20out%20sample.jpg" width="40">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/filter%20extract-2x-dilution.jpg" width="40">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/Add-distilled-water-10ml.jpg" width="240"><br>
+
+8. Launch the test on the app selecting "2 Times Dilution" on the next screen.<br>
+
+<img src="images/survey%20screen3.jpg" width="240">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/test%20screen%202.jpg" width="240"><br>
+
+***
+<br><br><br><br>
+
+### For 5X dilution (Range 0 - 500 mg/l)
+
+4. Draw a little over 2 ml of the sample. Then, attach the syringe filter to the tip of the syringe and Filter 2 ml of the sample into the measuring tube. Add 8 ml of distilled water to the same measuring tube, bringing up the total volume to 10 ml <br>
+
+<img src="images/3-draw%20out%20sample.jpg" width="40">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/filter%20extract-2x-dilution.jpg" width="40"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Add-distilled-water-10ml.jpg" width="240"> 
+<br>
+
+
+8. Launch the test on the app selecting "5 times dilution" on the next screen.<br>
+
+<img src="images/survey%20screen3.jpg" width="240">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/test%20screen%202.jpg" width="240"><br>
+
+
+
