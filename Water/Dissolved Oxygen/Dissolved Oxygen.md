@@ -39,7 +39,7 @@
 
 |  |
 | ---|:----------------| :-----:|
-|1|One vial of Dissolved Oxygen Reagent (refer to section on reagent preparation below) | <img src="images/components%20-%20reagent%20vial.jpg" width="60"><br>|
+|1|One vial of Dissolved Oxygen Reagent (refer to section on reagent preparation above) | <img src="images/components%20-%20reagent%20vial.jpg" width="60"><br>|
 |3|A Cuvette and pipe|<img src="images/components%20-%20pipe%20and%20cuvette.jpg" width="185">|
 |4|A smartphone with the ffem apps installed, and an alignment sticker|<img src="images/components%20-smartphone(sticker).jpg" width="240">|
 |5|A 10 ml measuring tube (min. volume)|<img src="images/components%20-%20mixing%20tube.jpg" width="30">|
