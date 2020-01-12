@@ -25,47 +25,44 @@
 <img src="images/survey%20screen2.jpg" width="240">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/survey%20screen3.jpg" width="240"><br>
 
-3. Rinse the empty cuvette and measuring tube twice with the sample to remove any traces of previous solutions.<br>
+3. Rinse the empty cuvette and measuring tube twice with the sample to remove any traces of previous solutions. Measure 10 ml of the sample with the measuring tube.<br>
 
-<img src="images/3-rinse.jpg" width="240"><br>
+<img src="images/3-rinse.jpg" width="240">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/3-measuresample.jpg" width="240"><br><br>
 
-4. Measure 10 ml of the sample with the measuring tube.<br>
-
-<img src="images/3-measuresample.jpg" width="240"><br><br><br><br><br>
-
-5. Open the vial of Copper reagent and add it to the measured sample. Close the lid of the measuring tube and shake it to ensure proper mixing of the reagent and sample.<br>
+4. Open the vial of Copper reagent and add it to the measured sample. Close the lid of the measuring tube and shake it to ensure proper mixing of the reagent and sample.<br>
 
 <img src="images/6-addvial.jpg" width="240">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="images/5-shakemix.jpg" width="240">
+<img src="images/5-shakemix.jpg" width="240"><br><br>
 
-6. Pour the contents of the mixing tube into the provided cuvette. Close the lid and fit the cuvette into the pipe.<br>
+5. Pour the contents of the mixing tube into the provided cuvette. Close the lid and fit the cuvette into the pipe.<br>
 
 <img src="images/4-pour%20mixed%20solution.jpg" width="240"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="images/8-align1.jpg" width="150"><br>
 
-7. Launch the test on the app selecting "No Dilution" on the next screen. <br>
+6. Launch the test on the app selecting "No Dilution" on the next screen. <br>
 
 <img src="images/survey%20screen3.jpg" width="240">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="images/test%20screen%202.jpg" width="240"><br><br><br><br><br><br>
+<img src="images/test%20screen%202.jpg" width="240"><br>
 
-8. Place the phone face down, and use the sticker to help center the cuvette over the camera. The test will take less than a minute to complete - you will hear 6 beeps and a "Test Completion" sound.<br>
+7. Place the phone face down, and use the sticker to help center the cuvette over the camera. The test will take less than a minute to complete - you will hear 6 beeps and a "Test Completion" sound.<br>
 
 <img src="images/8-align2.jpg" width="240">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="images/9-test.jpg" width="240"><br>
+<img src="images/9-test.jpg" width="240"><br><br><br><br><br><br>
 
-9. You should receive a contaminant concentration value in ppm. Tap Accept Result to return to the survey.<br>
-<img src="images/result%20screen.jpg" width="240">
+8. You should receive a contaminant concentration value in ppm. Tap Accept Result to return to the survey.<br>
+
+<img src="images/result%20screen.jpg" width="220">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="images/survey%20screen%20result.jpg" width="240"><br>
+<img src="images/survey%20screen%20result.jpg" width="220"><br>
 
-10. Empty the contents of the cuvette and rinse it once.<br>
+9. Empty the contents of the cuvette and rinse it once.<br>
 
-<img src="images/11-waste.jpg" width="240"><br><br><br><br>
+<img src="images/11-waste.jpg" width="220"><br>
 
-11. Complete the rest of the survey, and submit it once you have filled in all the forms.<br>
+10. Complete the rest of the survey, and submit it once you have filled in all the forms.<br>
 
 <img src="images/Collect%20submit%20form.jpg" width="240">
 
